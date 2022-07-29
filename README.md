@@ -1,4 +1,3 @@
-# herecredit_chatbot
 # WhatsApp Platform Quick Start
 
 Welcome to your first step toward building awesome WhatsApp apps!
